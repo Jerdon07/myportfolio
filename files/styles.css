@@ -14,7 +14,13 @@ h1, p, h2, h3,  #mypic-container{
 
 #mypic {
     height: 200px;
-    
+    border: 5px solid;
+    border-radius: 50%;
+}
+
+#about-me {
+    width: 70%;
+    margin: 0 auto;
 }
 
 #my-skills {
@@ -36,6 +42,13 @@ h1, p, h2, h3,  #mypic-container{
 } .level {
     text-align: right;
     width: 25%;
+}
+
+#social-media-container {
+}
+
+#social-media-container h3{
+    display: inline;
 }
 
 form {
